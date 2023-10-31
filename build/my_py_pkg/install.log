@@ -1,7 +1,5 @@
-/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_second_node.py
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py
-/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/my_second_node.cpython-310.pyc
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/my_first_node.cpython-310.pyc
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__pycache__/__init__.cpython-310.pyc
 /home/amal/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages/my_py_pkg
@@ -13,4 +11,4 @@
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info/zip-safe
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info/top_level.txt
 /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info/requires.txt
-/home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg/py_node1
+/home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg/py_node

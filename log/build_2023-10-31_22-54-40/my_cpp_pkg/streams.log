@@ -1,0 +1,39 @@
+[0.066s] Invoking command in '/home/amal/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amal/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/amal/ros2_ws/build/my_cpp_pkg -- -j16 -l16
+[0.087s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.235s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[0.265s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.267s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.273s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.284s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.300s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.359s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.360s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.475s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.702s] -- Configuring done
+[0.709s] -- Generating done
+[0.710s] -- Build files have been written to: /home/amal/ros2_ws/build/my_cpp_pkg
+[0.734s] [35m[1mConsolidate compiler generated dependencies of target cpp_node[0m
+[0.750s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/my_first_node.cpp.o[0m
+[3.306s] [100%] [32m[1mLinking CXX executable cpp_node[0m
+[3.409s] [100%] Built target cpp_node
+[3.420s] Invoked command in '/home/amal/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amal/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/amal/ros2_ws/build/my_cpp_pkg -- -j16 -l16
+[3.452s] Invoking command in '/home/amal/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amal/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/amal/ros2_ws/build/my_cpp_pkg
+[3.459s] -- Install configuration: ""
+[3.460s] -- Installing: /home/amal/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node
+[3.460s] -- Set runtime path of "/home/amal/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node" to ""
+[3.460s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[3.460s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[3.460s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[3.461s] -- Installing: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[3.461s] -- Installing: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[3.461s] -- Installing: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[3.461s] -- Installing: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[3.461s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[3.462s] -- Up-to-date: /home/amal/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[3.462s] Invoked command in '/home/amal/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/amal/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/amal/ros2_ws/build/my_cpp_pkg
