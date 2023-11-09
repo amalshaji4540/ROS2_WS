@@ -5,7 +5,7 @@ class MyNode(Node):
     def __init__(self):
         super().__init__("py_test")
         self.counter=0
-        self._logger.info("Hello ROS2 Node")
+        self._logger.info("Hello ROS2 Node !!")
         self.create_timer(0.5,self.timer_Callback)
     
     def timer_Callback(self):
