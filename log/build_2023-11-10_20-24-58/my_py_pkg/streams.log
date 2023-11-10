@@ -1,0 +1,40 @@
+[0.424s] Invoking command in '/home/amal/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/amal/ros2_ws/build/my_py_pkg/build
+[0.568s] running develop
+[0.647s] Removing /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.666s] Invoked command in '/home/amal/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/amal/ros2_ws/build/my_py_pkg/build
+[0.666s] Invoking command in '/home/amal/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/amal/ros2_ws/build/my_py_pkg/build install --record /home/amal/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[0.798s] running egg_info
+[0.798s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.798s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.798s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.798s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.799s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.800s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.800s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.800s] running build
+[0.800s] running build_py
+[0.800s] copying my_py_pkg/smartphone.py -> /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.800s] copying my_py_pkg/number_publisher.py -> /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.800s] copying my_py_pkg/robot_news_station.py -> /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.801s] running install
+[0.801s] running install_lib
+[0.801s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.802s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.802s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_publisher.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.802s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.802s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.802s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[0.802s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[0.803s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher.py to number_publisher.cpython-310.pyc
+[0.803s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[0.803s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[0.803s] running install_data
+[0.804s] running install_egg_info
+[0.805s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.805s] running install_scripts
+[0.817s] Installing number_publisher script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.817s] Installing python_node script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.817s] Installing robot_news_station script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.817s] Installing smartphone script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.817s] writing list of installed files to '/home/amal/ros2_ws/build/my_py_pkg/install.log'
+[0.833s] Invoked command in '/home/amal/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/amal/ros2_ws/build/my_py_pkg/build install --record /home/amal/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed

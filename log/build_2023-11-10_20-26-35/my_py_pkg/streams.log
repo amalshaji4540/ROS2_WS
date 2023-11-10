@@ -1,0 +1,27 @@
+[0.426s] Invoking command in '/home/amal/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/amal/ros2_ws/build/my_py_pkg/build install --record /home/amal/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[0.559s] running egg_info
+[0.560s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.560s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.560s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.560s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.560s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.561s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.561s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.561s] running build
+[0.561s] running build_py
+[0.561s] copying my_py_pkg/number_publisher.py -> /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.562s] running install
+[0.562s] running install_lib
+[0.562s] copying /home/amal/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_publisher.py -> /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.563s] byte-compiling /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher.py to number_publisher.cpython-310.pyc
+[0.563s] running install_data
+[0.563s] running install_egg_info
+[0.564s] removing '/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.564s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.565s] running install_scripts
+[0.576s] Installing number_publisher script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.576s] Installing python_node script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.576s] Installing robot_news_station script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.576s] Installing smartphone script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.576s] writing list of installed files to '/home/amal/ros2_ws/build/my_py_pkg/install.log'
+[0.591s] Invoked command in '/home/amal/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/amal/ros2_ws/build/my_py_pkg/build install --record /home/amal/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
