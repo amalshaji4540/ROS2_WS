@@ -1,0 +1,23 @@
+[0.490s] Invoking command in '/home/amal/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/amal/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[0.655s] running develop
+[0.746s] running egg_info
+[0.747s] writing my_py_pkg.egg-info/PKG-INFO
+[0.747s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.747s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.747s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.747s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.748s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.749s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.777s] running build_ext
+[0.777s] Creating /home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.778s] Installing add_two_int_server script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing add_two_ints_client_no_opp script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing number_counter script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing number_publisher script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing python_node script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing robot_news_station script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] Installing smartphone script to /home/amal/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.778s] 
+[0.778s] Installed /home/amal/ros2_ws/build/my_py_pkg
+[0.778s] running install_data
+[0.801s] Invoked command in '/home/amal/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/amal/ros2_ws/build/my_py_pkg/prefix_override:/home/amal/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/amal/ros2_ws/build/my_py_pkg/build --no-deps install_data
